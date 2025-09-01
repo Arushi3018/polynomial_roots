@@ -1,0 +1,2 @@
+Polynomial coefficients:
+1 -23 160 -336 
